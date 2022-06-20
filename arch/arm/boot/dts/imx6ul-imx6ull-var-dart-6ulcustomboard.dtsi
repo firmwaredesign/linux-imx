@@ -161,7 +161,7 @@
 
 	pinctrl_gpio_keys: gpio_keysgrp {
 		fsl,pins = <
-			MX6UL_PAD_GPIO1_IO00__GPIO1_IO00	0x17059 /* User Button */
+		/*	MX6UL_PAD_GPIO1_IO00__GPIO1_IO00 	0x17059 */ /* User Button */
 		>;
 	};
 
